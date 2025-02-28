@@ -62,7 +62,7 @@ Future<void> loadMaQuyen() async {
             children: [
               // SizedBox(width: 8),
               Text(
-                'SASCO DEMO',
+                'DEMO',
                 style: TextStyle(
                   fontSize: screenWidth * 0.08,
                   fontWeight: FontWeight.bold,
